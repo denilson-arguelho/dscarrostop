@@ -1,0 +1,16 @@
+.ds-section-coment {
+  background-color: var(--ds-color-bg-secondary);
+  padding: 0 20px;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.ds-section-container {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+}

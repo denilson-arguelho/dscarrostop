@@ -1,0 +1,7 @@
+h2 {
+  color: var(--ds-color-font-secondary);
+  font-weight: 700;
+  font-size: 20px;
+  text-align: center;
+  padding: 25px 0;
+}
